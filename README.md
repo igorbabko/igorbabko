@@ -14,6 +14,30 @@ const developer = {
 }
 ```
 
+<details>
+<summary><b>🚀 More about my journey & expertise</b></summary>
+
+### 🏗️ Technical Expertise
+
+With **12+ years** in the industry, I specialize in building scalable web architectures.
+
+- **Frontend:** JavaScript, TypeScript, React, Vue, Tailwind CSS.
+- **Backend:** Node.js, Laravel.
+- **Focus:** Micro-frontends, System Design, and Performant UIs.
+
+### 🎥 Content Creation
+
+Alongside my main work, I have been making video tutorials and sharing web development knowledge on my YouTube channels for over 5 years.
+
+### ⛓️ Web3 & Blockchain
+
+I'm passionate about the **DeFi and Crypto** ecosystem. In my free time, I focus on:
+
+- **Development:** Solidity and Rust.
+- **Side Projects:** A custom crypto trading bot and a web3 portfolio tracker.
+
+</details>
+
 ## 📺 YouTube Channels
 
 [![english youtube subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_AUFj_GxY7C6edgjEzP6PQ?color=%23E05D44&label=EN+SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@igor_babko?sub_confirmation=1)&nbsp;[![english youtube views](https://custom-icon-badges.demolab.com/youtube/channel/views/UC_AUFj_GxY7C6edgjEzP6PQ?color=%23E1AD0E&label=EN+VIEWS&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@igor_babko)&nbsp;[![russian youtube subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXkcYikLC-TwF_H373bECFQ?color=%23E05D44&label=RU+SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@igorbabko?sub_confirmation=1)&nbsp;[![russian youtube views](https://custom-icon-badges.demolab.com/youtube/channel/views/UCXkcYikLC-TwF_H373bECFQ?color=%23E1AD0E&label=RU+VIEWS&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@igorbabko)
@@ -62,28 +86,3 @@ const developer = {
 <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 
----
-
-<details>
-<summary><b>🚀 More about my journey & expertise</b></summary>
-
-### 🏗️ Technical Expertise
-
-With **12+ years** in the industry, I specialize in building scalable web architectures.
-
-- **Frontend:** JavaScript, TypeScript, React, Vue, Tailwind CSS.
-- **Backend:** Node.js, Laravel.
-- **Focus:** Micro-frontends, System Design, and Performant UIs.
-
-### 🎥 Content Creation
-
-Alongside my main work, I have been making video tutorials and sharing web development knowledge on my YouTube channels for over 5 years.
-
-### ⛓️ Web3 & Blockchain
-
-I'm passionate about the **DeFi and Crypto** ecosystem. In my free time, I focus on:
-
-- **Development:** Solidity and Rust.
-- **Side Projects:** A custom crypto trading bot and a web3 portfolio tracker.
-
-</details>
