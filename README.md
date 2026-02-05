@@ -21,7 +21,7 @@ With **12+ years** in the industry, I specialize in building scalable web archit
 
 - **Frontend:** JavaScript, TypeScript, React, Vue, Tailwind CSS.
 - **Backend:** Node.js, Laravel.
-- **Focus:** Micro-frontends, System Design, and Performant UIs.
+- **Focus:** Micro-frontends, System Design, and High-Performance UIs.
 
 ### 🎥 Content Creation
 
