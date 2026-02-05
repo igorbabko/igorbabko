@@ -1,7 +1,5 @@
 # 👋 Hey!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-babko)
-
 ```typescript
 const developer = {
   name: 'Igor Babko',
@@ -42,9 +40,9 @@ I'm passionate about the **DeFi and Crypto** ecosystem. In my free time, I focus
 
 [![english youtube subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_AUFj_GxY7C6edgjEzP6PQ?color=%23E05D44&label=EN+SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@igor_babko?sub_confirmation=1)&nbsp;[![english youtube views](https://custom-icon-badges.demolab.com/youtube/channel/views/UC_AUFj_GxY7C6edgjEzP6PQ?color=%23E1AD0E&label=EN+VIEWS&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@igor_babko)&nbsp;[![russian youtube subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXkcYikLC-TwF_H373bECFQ?color=%23E05D44&label=RU+SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@igorbabko?sub_confirmation=1)&nbsp;[![russian youtube views](https://custom-icon-badges.demolab.com/youtube/channel/views/UCXkcYikLC-TwF_H373bECFQ?color=%23E1AD0E&label=RU+VIEWS&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@igorbabko)
 
-## 🐙 GitHub Stats
+## 🔗 Connect & Stats
 
-[![followers](https://custom-icon-badges.demolab.com/github/followers/igorbabko?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)](https://github.com/igorbabko?tab=followers)&nbsp;[![total stars](https://custom-icon-badges.demolab.com/github/stars/igorbabko?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/igorbabko?tab=repositories&sort=stargazers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-babko)&nbsp;[![followers](https://custom-icon-badges.demolab.com/github/followers/igorbabko?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)](https://github.com/igorbabko?tab=followers)&nbsp;[![total stars](https://custom-icon-badges.demolab.com/github/stars/igorbabko?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/igorbabko?tab=repositories&sort=stargazers)
 
 ## 🧰 Tech Stack
 
