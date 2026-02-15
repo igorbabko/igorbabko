@@ -53,6 +53,14 @@ I'm passionate about the **DeFi and Crypto** ecosystem. In my free time, I focus
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/igor-babko)&nbsp;[![followers](https://custom-icon-badges.demolab.com/github/followers/igorbabko?color=181717&labelColor=181717&style=for-the-badge&logo=person-add&label=GitHub+Followers&logoColor=white)](https://github.com/igorbabko?tab=followers)&nbsp;[![total stars](https://custom-icon-badges.demolab.com/github/stars/igorbabko?color=181717&style=for-the-badge&labelColor=181717&logo=star&label=GitHub+Stars)](https://github.com/igorbabko?tab=repositories&sort=stargazers)
 
+<details>
+<summary><b>🧪 Latest Gists</b></summary>
+
+  - [Zed Config](https://gist.github.com/igorbabko/f28faf0881920a40d43df57b991d3929)
+  - [VS Code Config](https://gist.github.com/igorbabko/e399a8fd0eee92a5309c611e4931b134)
+
+</details>
+
 ## 🧰 Tech Stack
 
 **Languages**<br>
