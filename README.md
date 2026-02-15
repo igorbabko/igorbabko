@@ -13,7 +13,7 @@ const developer = {
 ```
 
 <details>
-<summary><b>🚀 More about my journey & expertise</b></summary>
+<summary><b>More about my journey & expertise</b></summary>
 
 ### 🏗️ Technical Expertise
 
@@ -41,7 +41,7 @@ I'm passionate about the **DeFi and Crypto** ecosystem. In my free time, I focus
 [![english youtube subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_AUFj_GxY7C6edgjEzP6PQ?color=%23E05D44&label=EN+SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@igor_babko?sub_confirmation=1)&nbsp;[![english youtube views](https://custom-icon-badges.demolab.com/youtube/channel/views/UC_AUFj_GxY7C6edgjEzP6PQ?color=%23E1AD0E&label=EN+VIEWS&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@igor_babko)&nbsp;[![russian youtube subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXkcYikLC-TwF_H373bECFQ?color=%23E05D44&label=RU+SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@igorbabko?sub_confirmation=1)&nbsp;[![russian youtube views](https://custom-icon-badges.demolab.com/youtube/channel/views/UCXkcYikLC-TwF_H373bECFQ?color=%23E1AD0E&label=RU+VIEWS&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600)](https://www.youtube.com/@igorbabko)
 
 <details>
-<summary><b>🍿 Popular Videos</b></summary>
+<summary><b>Popular Videos</b></summary>
 
   - [VS Code Setup | Beautiful Minimal Look](https://www.youtube.com/watch?v=VmFOsK7IhI4)
   - [VS Code | Beautiful Themes](https://www.youtube.com/watch?v=DVTJ5YaMZ28)
@@ -54,7 +54,7 @@ I'm passionate about the **DeFi and Crypto** ecosystem. In my free time, I focus
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/igor-babko)&nbsp;[![followers](https://custom-icon-badges.demolab.com/github/followers/igorbabko?color=181717&labelColor=181717&style=for-the-badge&logo=person-add&label=GitHub+Followers&logoColor=white)](https://github.com/igorbabko?tab=followers)&nbsp;[![total stars](https://custom-icon-badges.demolab.com/github/stars/igorbabko?color=181717&style=for-the-badge&labelColor=181717&logo=star&label=GitHub+Stars)](https://github.com/igorbabko?tab=repositories&sort=stargazers)
 
 <details>
-<summary><b>🧪 Latest Gists</b></summary>
+<summary><b>Latest Gists</b></summary>
 
   - [Zed Config](https://gist.github.com/igorbabko/f28faf0881920a40d43df57b991d3929)
   - [VS Code Config](https://gist.github.com/igorbabko/e399a8fd0eee92a5309c611e4931b134)
