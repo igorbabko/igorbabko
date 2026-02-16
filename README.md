@@ -58,6 +58,7 @@ I'm passionate about the **DeFi and Crypto** ecosystem. In my free time, I focus
 
   - [Zed Config](https://gist.github.com/igorbabko/f28faf0881920a40d43df57b991d3929)
   - [VS Code Config](https://gist.github.com/igorbabko/e399a8fd0eee92a5309c611e4931b134)
+  - [JetBrains IDE Setup](https://gist.github.com/igorbabko/bcbf3627482bc4445a46a99b58d7303f)
 
 </details>
 
