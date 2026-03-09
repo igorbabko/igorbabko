@@ -3,7 +3,7 @@
 ```typescript
 const developer = {
   name: 'Igor Babko',
-  role: 'Senior Frontend Engineer',
+  role: 'Senior Full-Stack Engineer',
   experience: 12, // years
   favoriteIndustries: ['💳 fintech', '🌐 web3'],
   currentlyLearning: ['💎 solidity', '🦀 rust'],
@@ -21,7 +21,7 @@ With **12+ years** in the industry, I specialize in building scalable web archit
 
 - **Frontend:** JavaScript, TypeScript, React, Vue, Tailwind CSS.
 - **Backend:** Node.js, Laravel.
-- **Focus:** Micro-frontends, System Design, and High-Performance UIs.
+- **Focus:** System Design, Software Architecture, Micro-frontends and High-Performance UIs.
 
 ### 🎥 Content Creation
 
