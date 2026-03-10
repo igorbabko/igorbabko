@@ -20,7 +20,7 @@ const developer = {
 With **12+ years** in the industry, I specialize in building scalable web architectures.
 
 - **Frontend:** JavaScript, TypeScript, React, Vue, Tailwind CSS.
-- **Backend:** Node.js, Laravel.
+- **Backend:** Node.js, PHP, Laravel.
 - **Focus:** System Design, Software Architecture, Micro-frontends and High-Performance UIs.
 
 ### 🎥 Content Creation
